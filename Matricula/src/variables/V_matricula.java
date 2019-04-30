@@ -7,8 +7,7 @@ package variables;
 
 /**
  *
- * @author DELL
- */
+ * @author Frank Joel Saca Quizhpe */
 public class V_matricula {
     // Declaracion de variables con respecto a los porcentajes 
     public static double d_ciudad = 0.20, d_edad = 0.10, d_estadocivil = 0.05 

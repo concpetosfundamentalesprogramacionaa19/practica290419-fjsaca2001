@@ -8,7 +8,7 @@ import java.util.Scanner;
 import variables.*;
 /**
  *
- * @author DELL
+ * @author Frank joel Saca Quizhpe
  */
 public class Matricula {
 
@@ -26,7 +26,7 @@ public class Matricula {
         // Requerimiento de datos
         System.out.println("Ingrese su ciudad de origen: ");
         ciudad = entrada.nextLine();
-        
+            
         System.out.println("Ingrese su edad: ");
         edad = entrada.nextInt();
         
